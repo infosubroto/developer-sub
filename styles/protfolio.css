@@ -169,7 +169,16 @@ color: #757575;
 .resume-button{
     margin-top: 50px;
     text-align: center;
+}
+/* contact styles */
+.contact{
+    display: flex;
+    gap: 100px;
+    background: #fff8f3;
+    padding: 130px 200px;
 
-
+}
+.contact .section-title{
+    text-align: left;
 }
 
