@@ -139,7 +139,9 @@ color: #757575;
         color:#757575
     }
     /* Resume Styles */
-
+.resume-content{
+    display: flex;
+}
 
 
 
